@@ -1,4 +1,4 @@
-# Cria uma "tabela clientes_cadastro" que une todos os clientes cadastrados da tabela "clients" com os clientes não cadastrados presentes na tabela "transactions" e indica que o cliente possui um id mas não tem cadastro 
+# Cria uma tabela "clientes_cadastro" que une todos os clientes cadastrados da tabela "clients" com os clientes não cadastrados presentes na tabela "transactions" e indica que o cliente possui um id mas não tem cadastro 
 
 SELECT DISTINCT
     ISNULL(t.cliente_id, c.id) AS id,
