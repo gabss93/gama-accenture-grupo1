@@ -43,5 +43,19 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
 
 <img src="https://raw.githubusercontent.com/paulacapuano/gama-accenture-grupo1/339d324ae2453d51028b7dda14dc2cc7623b36dc/imagens/estrategia.png">
 </p>
+
+ 
+ ## Execução
+1. Criar VM no portal Azure e conectar via chave SSH com a máquina local
+2. Conectar VM com VS code
+3. Instalar jupyter notebook na VM
+4. Criar o ambiente do Spark na VM
+5. Transferir os arquivos csv com os dados para a VM
+6. Transformar os dados com Spark
+7. Carregar o dados resultantes no banco de dados SQL Server
+8. Analisar os dados de clientes e fraudes por SQL
+9. Fazer análises estatíticas e gerar relatório no PowerBI
+
+
 ## Bibliotecas
 
