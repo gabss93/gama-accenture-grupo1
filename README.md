@@ -47,14 +47,30 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
  
  ## Execução
 1. Criar VM no portal Azure e conectar via chave SSH com a máquina local
-2. Conectar VM com VS code
-3. Instalar jupyter notebook na VM
-4. Criar o ambiente do Spark na VM
-5. Transferir os arquivos csv com os dados para a VM
-6. Transformar os dados com Spark
-7. Carregar o dados resultantes no banco de dados SQL Server
-8. Analisar os dados de clientes e fraudes por SQL
-9. Fazer análises estatíticas e gerar relatório no PowerBI
+2. Transformar os dados com Spark
+3. Carregar o dados resultantes no banco de dados SQL Server
+4. Analisar os dados de clientes e fraudes por SQL
+5. Fazer análises estatíticas e gerar relatório no PowerBI
+
+## 1. Criar VM no portal Azure e criar ambiente para o Spark
+* Conectar com a máquina local via chave SSH
+* Conectar VM com VS code
+* Instalar jupyter notebook
+* Criar o ambiente do Spark
+* Transferir os arquivos csv com os dados para a VM
+
+## 2. Transformação dos dados com Spark
+
+
+
+## 3. Carregar o dados resultantes no banco de dados SQL Server
+
+
+## 4. Analisar os dados de clientes e fraudes por SQL
+
+
+
+## 5.Fazer análises estatíticas e gerar relatório no PowerBI
 
 
 ## Bibliotecas
