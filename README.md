@@ -89,3 +89,7 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
 
 ## Bibliotecas
 
+
+
+https://user-images.githubusercontent.com/92882372/225460253-33329432-643b-4e09-91b2-ca326f490084.mp4
+
