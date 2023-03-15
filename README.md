@@ -53,6 +53,13 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
 5. Fazer análises estatíticas e gerar relatório no PowerBI
 
 ## 1. Criar VM no portal Azure e criar ambiente para o Spark
+
+
+
+https://user-images.githubusercontent.com/92882372/225459379-e2ea5f03-4ca9-41bb-8146-4e6414dc1aba.mp4
+
+
+
 * Conectar com a máquina local via chave SSH
 * Conectar VM com VS code
 * Instalar jupyter notebook
