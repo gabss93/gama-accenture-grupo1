@@ -70,6 +70,11 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
 
 
 ## 3. Carregar o dados resultantes no banco de dados SQL Server
+[Script de conexão com o banco de dados e migração:](https://github.com/paulacapuano/gama-accenture-grupo1/blob/main/script-Spark-conexao-banco.ipynb)
+
+* Instalação do ODBC 18 e pyodbc para conexão com banco de dados.
+* Criação de tabelas no banco de dados.
+* Inserção dos dados no banco de dados.
 
 
 ## 4. Analisar os dados de clientes e fraudes por SQL
