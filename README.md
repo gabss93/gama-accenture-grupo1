@@ -1,6 +1,37 @@
-# Grupo 1: The last of Us!
+# Projeto final - Academia Mulheres em Tech Data Engineer da parceria Gama Academy e Accenture
 
-Projeto final da parceria Gama Academy e Accenture
+## Grupo 1: The last of Us!
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://https://github.com/alinetsbarreto">
+        <img src="https://avatars.githubusercontent.com/u/124752253?v=4" width="100px;" alt="Foto Aline Barreto"/><br>
+        <sub style="color: purple;">
+          <b>Aline Barreto </b>
+        </sub><br>
+         <a href="https://www.linkedin.com/in/alinetsbarreto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gabieng">
+        <img src="https://avatars.githubusercontent.com/u/103044907?v=4" width="100px;" alt="Gabriela Silva"/><br>
+        <sub style="color: purple;">
+          <b> Gabriela Silva </b>
+        </sub><br>
+         <a href="https://www.linkedin.com/in/gabriela-ssilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+   </td>
+    <td align="center">
+      <a href="https://github.com/paulacapuano">
+        <img src="https://avatars.githubusercontent.com/u/61557397?v=4" width="100px;" alt="Paula Capuano"/><br>
+        <sub style="color: purple;">
+          <b> Paula Capuano </b>
+        </sub><br>
+         <a href="https://www.linkedin.com/  "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+    </td>
+  </tr>
+</table>
+
 
 # Desafio
 
