@@ -78,7 +78,10 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
 
 
 ## 4. Analisar os dados de clientes e fraudes por SQL
+[Script com as análises em SQL:](https://github.com/paulacapuano/gama-accenture-grupo1/blob/main/analise_SQL_clientes_fraudes.sql)
 
+* Cria uma tabela que une todos os clientes cadastrados e não cadastrados que estão apenas na tabela de transações.
+* Cria uma tabela com a análise de fraude pela diferença de 2 min, nessa tabela é inserido uma coluna "Fraude" que indica se a transação é fraudulenta ou não.
 
 
 ## 5.Fazer análises estatíticas e gerar relatório no PowerBI
