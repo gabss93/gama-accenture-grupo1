@@ -19,7 +19,12 @@ SELECT
     t.valor, 
     t.tipo_transacao, 
     t.data, 
-    CASE WHEN DATEDIFF(SECOND, LAG(t.data) OVER (PARTITION BY t.cliente_id ORDER BY t.data), t.data) <= 120 THEN 'Sim' ELSE 'Não' END AS Fraude
+    CASE 
+        WHEN DATEDIFF(SECOND, LAG(t.data) OVER (PARTITION BY t.cliente_id ORDER BY t.data), t.data) <= 120 
+            THEN 'Sim' 
+        ELSE 'Não' 
+    END AS fraude,
+    ISNULL(DATEDIFF(SECOND, LAG(t.data) OVER (PARTITION BY t.cliente_id ORDER BY t.data), t.data), 0) AS diferenca_tempo
 INTO transacao_clientes_fraudes
 FROM transactions t
 
