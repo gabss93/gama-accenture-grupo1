@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://https://github.com/alinetsbarreto">
+      <a href="https://github.com/alinetsbarreto">
         <img src="https://avatars.githubusercontent.com/u/124752253?v=4" width="100px;" alt="Foto Aline Barreto"/><br>
         <sub style="color: purple;">
           <b>Aline Barreto </b>
@@ -27,7 +27,7 @@
         <sub style="color: purple;">
           <b> Paula Capuano </b>
         </sub><br>
-         <a href="https://www.linkedin.com/  "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+         <a href="https://www.linkedin.com/in/paulacapuano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
     </td>
   </tr>
 </table>
