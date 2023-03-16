@@ -84,7 +84,11 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
 * Cria uma tabela com a análise de fraude pela diferença de 2 min, nessa tabela é inserido uma coluna "Fraude" que indica se a transação é fraudulenta ou não.
 
 
-## 5.Fazer análises estatíticas e gerar relatório no PowerBI
+## 5.Fazer análises estatíticas e gerar relatório no PowerBi
+
+<img src="https://github.com/paulacapuano/gama-accenture-grupo1/blob/main/imagem/powerbi.png">
+</p>
+
 
 
 ## Bibliotecas
