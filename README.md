@@ -76,7 +76,12 @@ https://user-images.githubusercontent.com/103044907/225511989-9ac6143c-978c-40c9
 * Código para verificar os tipos dos dados nas colunas nos dataframes.
 
 
-## 3. Carregar o dados resultantes no banco de dados SQL Server
+## 3. Carregar os dados resultantes no banco de dados SQL Server
+
+### 3.1 Criar banco de dados:
+https://user-images.githubusercontent.com/103044907/225514324-97985f7c-6efb-4e3f-a7bc-934a000db8f1.mp4
+
+### 3.2 Script conexão:
 [Script de conexão com o banco de dados e migração:](https://github.com/paulacapuano/gama-accenture-grupo1/blob/main/script-Spark-conexao-banco.ipynb)
 
 * Instalação do ODBC 18 e pyodbc para conexão com banco de dados.
