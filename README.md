@@ -79,7 +79,7 @@ sudo apt-get install jupyter-notebook
 
 ## 2. Transformação dos dados com Spark
 
-[Script com a transformação dos dados com Spark:](https://github.com/paulacapuano/gama-accenture-grupo1/blob/main/scriptSpark.ipynb)
+[Script com a transformação dos dados com Spark:](https://github.com/paulacapuano/gama-accenture-grupo1/blob/main/scriptSpark-notebook.ipynb)
 
 * Código para juntar csvs da mesma entidade ([clientes](https://github.com/paulacapuano/gama-accenture-grupo1/tree/main/Dados/Clientes), [transação_in](https://github.com/paulacapuano/gama-accenture-grupo1/tree/main/Dados/Transacao-I) e [transação_out](https://github.com/paulacapuano/gama-accenture-grupo1/tree/main/Dados/Transacao-Out)) em um dataframe.
 * Código para juntar os dataframes de transação_in e transação_out em um dataframe de transações.
