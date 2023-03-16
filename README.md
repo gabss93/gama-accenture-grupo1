@@ -37,9 +37,10 @@
 
 Desenvolver uma aplicação em Python para carga de arquivos em um banco de dados SQL e gerar relatórios estatísticos visando a descoberta de fraudes bancárias.
 
-## Objetivo inicial
+## Objetivo inicial 
 
-Analisar arquivos de clientes e transações, criando uma base de dados relacional para fazer a carga e depois analisá-la.
+O objetivo inicial é analisar estes arquivos criando uma base de dados relacional para fazer a carga e depois analisá-la. 
+O cartão fraudado, será aquele que tiver movimentações abaixo de 2 minutos de espaçamento entre as transações
 
 
 ## Estratégia 
