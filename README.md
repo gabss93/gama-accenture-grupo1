@@ -37,11 +37,16 @@
 
 Desenvolver uma aplicação em Python para carga de arquivos em um banco de dados SQL e gerar relatórios estatísticos visando a descoberta de fraudes bancárias.
 
+## Objetivo inicial
+
+Analisar arquivos de clientes e transações, criando uma base de dados relacional para fazer a carga e depois analisá-la.
+
+
 ## Estratégia 
 
 Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise de fraudes pelo banco SQL Server e análises estatísticas e relatórios pelo PowerBI.
 
-<img src="https://raw.githubusercontent.com/paulacapuano/gama-accenture-grupo1/339d324ae2453d51028b7dda14dc2cc7623b36dc/imagens/estrategia.png">
+<img src="https://github.com/paulacapuano/gama-accenture-grupo1/blob/main/imagem/estrategia.png">
 </p>
 
  
@@ -82,6 +87,8 @@ Fazer um processo de ETL dos dados recebidos utilizando Spark e fazer análise d
 
 * Cria uma tabela que une todos os clientes cadastrados e não cadastrados que estão apenas na tabela de transações.
 * Cria uma tabela com a análise de fraude pela diferença de 2 min, nessa tabela é inserido uma coluna "Fraude" que indica se a transação é fraudulenta ou não.
+
+### Modelo de entidades e relacionamentos
 
 
 ## 5.Fazer análises estatíticas e gerar relatório no PowerBi
