@@ -62,7 +62,17 @@ https://user-images.githubusercontent.com/103044907/225511989-9ac6143c-978c-40c9
 
 * Conectar com a máquina local via chave SSH
 * Conectar VM com VS code
-* Instalar jupyter notebook
+* Instalar jupyter notebook e preparar o ambiente:
+```shell
+sudo apt update
+sudo apt upgrade
+sudo apt install python3-pip
+sudo apt install unixodbc-dev 
+pip install pyodbc
+sudo apt install default-jre
+sudo apt-get install jupyter-notebook
+
+```
 * Criar o ambiente do Spark
 * Transferir os arquivos csv com os dados para a VM
 
@@ -107,5 +117,4 @@ https://user-images.githubusercontent.com/103044907/225514324-97985f7c-6efb-4e3f
 
 
 
-## Bibliotecas
 
